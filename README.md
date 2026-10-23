@@ -203,6 +203,11 @@ small network over an accelerometer window is feasible on this part, but that
 is a model and not an agent, and the five-feature logistic regression in
 `tools/train_knock.py` is already the right size for the data available.
 
+
+## Video (this was before I got rej final rd for ddog :( )
+https://youtu.be/vRRy4JN0ol0?si=mOncYZEGCiGHk11f 
+[![Watch the video]([https://youtube.com](https://www.youtube.com/watch?v=vRRy4JN0ol0))](https://youtube.com)
+
 ## Credits
 
 Pin map and register values from the official
@@ -214,3 +219,5 @@ SisFall (Sucerquia, López and Vargas-Bonilla, *Sensors* 2017, 17(1) 198,
 supplied the 4,505 recordings the detector was replayed against.
 
 MIT licensed.
+
+
